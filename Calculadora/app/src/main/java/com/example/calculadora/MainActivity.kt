@@ -92,7 +92,7 @@ class MainActivity : AppCompatActivity() {
             listinha = num1.toString() +" "+ operador + " " + num2.toString() + " = " + Soma.toString()
             visor.text = Soma.toString()
 
-            numeroAnterior = ""
+            numeroAnterior = "";
             numeroAtual = ""
             operador = ""
         }
