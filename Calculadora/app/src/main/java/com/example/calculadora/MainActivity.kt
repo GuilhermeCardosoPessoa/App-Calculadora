@@ -113,6 +113,6 @@ class MainActivity : AppCompatActivity() {
         numeroAnterior = ""
         numeroAtual = ""
         operador = ""
-        visor.text = ""
+        visor.text = "";
     }
 }
