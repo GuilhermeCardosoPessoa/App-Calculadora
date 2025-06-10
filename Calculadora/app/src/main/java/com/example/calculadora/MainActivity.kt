@@ -94,7 +94,7 @@ class MainActivity : AppCompatActivity() {
 
             numeroAnterior = "";
             numeroAtual = ""
-            operador = ""
+            operador = "";
         }
     }
     private fun onDotClick() {
