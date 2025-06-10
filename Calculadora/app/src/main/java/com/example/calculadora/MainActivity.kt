@@ -93,7 +93,7 @@ class MainActivity : AppCompatActivity() {
             visor.text = Soma.toString()
 
             numeroAnterior = "";
-            numeroAtual = ""
+            numeroAtual = "";
             operador = "";
         }
     }
